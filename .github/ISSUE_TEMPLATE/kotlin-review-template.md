@@ -7,4 +7,4 @@ assignees: jeongwon-iee
 
 ---
 
-## n.n장. 제목
+## n.n 제목
