@@ -1,7 +1,7 @@
 ---
 name: start-chapter
 about: 챕터 시작 템플릿
-title: '[n장.] 제목'
+title: "[n장] 제목"
 labels: book
 assignees: jeongwon-iee
 
